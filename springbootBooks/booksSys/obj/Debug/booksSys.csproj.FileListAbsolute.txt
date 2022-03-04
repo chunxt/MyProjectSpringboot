@@ -1,0 +1,16 @@
+E:\CsharpRepo\projs\booksSys\bin\Debug\booksSys.exe.config
+E:\CsharpRepo\projs\booksSys\bin\Debug\booksSys.exe
+E:\CsharpRepo\projs\booksSys\bin\Debug\booksSys.pdb
+E:\CsharpRepo\projs\booksSys\obj\Debug\booksSys.csproj.AssemblyReference.cache
+E:\CsharpRepo\projs\booksSys\obj\Debug\booksSys.csproj.SuggestedBindingRedirects.cache
+E:\CsharpRepo\projs\booksSys\obj\Debug\booksSys.Properties.Resources.resources
+E:\CsharpRepo\projs\booksSys\obj\Debug\booksSys.UIs.FormIndex.resources
+E:\CsharpRepo\projs\booksSys\obj\Debug\booksSys.csproj.GenerateResource.cache
+E:\CsharpRepo\projs\booksSys\obj\Debug\booksSys.csproj.CoreCompileInputs.cache
+E:\CsharpRepo\projs\booksSys\obj\Debug\booksSys.exe
+E:\CsharpRepo\projs\booksSys\obj\Debug\booksSys.pdb
+E:\CsharpRepo\projs\booksSys\bin\Debug\Newtonsoft.Json.dll
+E:\CsharpRepo\projs\booksSys\bin\Debug\Newtonsoft.Json.xml
+E:\CsharpRepo\projs\booksSys\obj\Debug\booksSys.csproj.CopyComplete
+E:\CsharpRepo\projs\booksSys\obj\Debug\booksSys.UIs.FormAddBook.resources
+E:\CsharpRepo\projs\booksSys\obj\Debug\booksSys.UIs.FormUpdate.resources

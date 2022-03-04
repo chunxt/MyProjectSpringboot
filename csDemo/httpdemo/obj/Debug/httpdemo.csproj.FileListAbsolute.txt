@@ -1,0 +1,11 @@
+E:\CsharpRepo\projs\httpdemo\bin\Debug\httpdemo.exe.config
+E:\CsharpRepo\projs\httpdemo\bin\Debug\httpdemo.exe
+E:\CsharpRepo\projs\httpdemo\bin\Debug\httpdemo.pdb
+E:\CsharpRepo\projs\httpdemo\bin\Debug\Newtonsoft.Json.dll
+E:\CsharpRepo\projs\httpdemo\bin\Debug\Newtonsoft.Json.xml
+E:\CsharpRepo\projs\httpdemo\obj\Debug\httpdemo.csproj.SuggestedBindingRedirects.cache
+E:\CsharpRepo\projs\httpdemo\obj\Debug\httpdemo.csproj.CoreCompileInputs.cache
+E:\CsharpRepo\projs\httpdemo\obj\Debug\httpdemo.csproj.CopyComplete
+E:\CsharpRepo\projs\httpdemo\obj\Debug\httpdemo.exe
+E:\CsharpRepo\projs\httpdemo\obj\Debug\httpdemo.pdb
+E:\CsharpRepo\projs\httpdemo\obj\Debug\httpdemo.csproj.AssemblyReference.cache
